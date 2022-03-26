@@ -3,7 +3,7 @@ Image url:
 
 Train: http://images.cocodataset.org/zips/train2017.zip
 
-Val: http://images.cocodataset.org/zips/train2017.zip
+Val: http://images.cocodataset.org/zips/val2017.zip
 
 Test: http://images.cocodataset.org/zips/test2017.zip 
 
